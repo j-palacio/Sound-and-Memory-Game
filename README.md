@@ -6,7 +6,7 @@ Submitted by: Juan Palacio
 
 Time spent: 10 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://trail-confused-saltasaurus.glitch.me)
 
 ## Required Functionality
 
@@ -74,7 +74,7 @@ If I had a few more hours to work on this project, I would spend more time addin
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/MghzrrQviHo)
 
 
 ## License
